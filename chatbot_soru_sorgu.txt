@@ -1,0 +1,62 @@
+Ekteki Soru ve Sorgular ile chatbot'dan istenilen bilgiler sağlanılabilir.
+
+Sıkça Sorulan Sorular:
+Kütüphane saatleri hakkında bilgi almak istiyorum
+Peki sınav dönemi kaça kadar açık?
+Kütüphaneden kaç materyal ödünç alabilirim?
+Kütüphanede bulunan kaynakları ödünç alabilir miyim?
+Ödünç aldığım kitabın iadesini nasıl uzatabilirim?
+Ödünç aldığım kitabın iade süresi geçti ne yapmalıyım?
+Kütüphaneden ödünç aldığım kaynağı kaybettim ne yapmalıyım?
+Kütüphane hakkında bilgi verir misin?
+Kitap Sorgulama;
+- Yaşar Kemal'in Kitapları var mı?
+- Gurur ve Önyargı kitabının yazarı kimdir?
+- Fyodor Dostoyevski'nin önerebileceğin kitabı var mı?
+- Lev Tolstoy'un önerebileceğin kitabı var mı?
+- Savaş ve Barış kitabının yazarı kimdir?
+
+Sorgulama için kullanılabilir kitaplar;
+-Savaş ve Barış
+-Suç ve Ceza	
+-Yüzyıllık Yalnızlık
+-1984
+-Küçük Prens
+-Don Kişot
+-Simyacı
+-Anna Karenina
+-Dönüşüm
+-Fareler ve İnsanlar
+-Gurur ve Önyargı
+-Madam Bovary
+-Kürk Mantolu Madonna
+-İnce Memed
+-Tutunamayanlar
+-Beyaz Diş
+-Uçurtma Avcısı
+-Şeker Portakalı
+-Küçük Ağa
+-Bir İdam Mahkumunun Son Günü
+
+
+Sorgulama için kullanılabilir yazarlar;
+-Lev Tolstoy
+-Fyodor Dostoyevski
+-Gabriel Garcia Marquez
+-George Orwell
+-Antoine de Saint-Exupéry
+-Miguel de Cervantes
+-Paulo Coelho
+-Lev Tolstoy
+-Franz Kafka
+-John Steinbeck
+-Jane Austen
+-Gustave Flaubert
+-Sabahattin Ali
+-Yaşar Kemal
+-Oğuz Atay
+-Jack London
+-Khaled Hosseini
+-José Mauro de Vasconcelos
+-Tarık Buğra
+-Victor Hugo
